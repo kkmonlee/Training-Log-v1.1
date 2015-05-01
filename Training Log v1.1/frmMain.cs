@@ -74,5 +74,10 @@ namespace Training_Log_v1._1
                 MessageBox.Show("Make sure you have entered a username and password");
             }
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
+        }
     }
 }
